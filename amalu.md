@@ -1,4 +1,4 @@
-Alijah Malubay
-Computer Science
+Alijah Malubay  
+Computer Science  
 Machine Learning
-Not procrastinating
+Memory Safety  
